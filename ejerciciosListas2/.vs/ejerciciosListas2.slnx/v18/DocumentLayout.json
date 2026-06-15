@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\adria\\source\\repos\\ejerciciosListas2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A3483A98-C27C-C68A-5056-9CC3CE44CE93}|ejerciciosListas2\\ejerciciosListas2.csproj|c:\\users\\adria\\source\\repos\\ejercicioslistas2\\ejercicioslistas2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3483A98-C27C-C68A-5056-9CC3CE44CE93}|ejerciciosListas2\\ejerciciosListas2.csproj|solutionrelative:ejercicioslistas2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 329,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\adria\\source\\repos\\ejerciciosListas2\\ejerciciosListas2\\Program.cs",
+              "RelativeDocumentMoniker": "ejerciciosListas2\\Program.cs",
+              "ToolTip": "C:\\Users\\adria\\source\\repos\\ejerciciosListas2\\ejerciciosListas2\\Program.cs",
+              "RelativeToolTip": "ejerciciosListas2\\Program.cs",
+              "ViewState": "AgIAAKwAAAAAAAAAAAAAwOEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-20T00:26:44.157Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

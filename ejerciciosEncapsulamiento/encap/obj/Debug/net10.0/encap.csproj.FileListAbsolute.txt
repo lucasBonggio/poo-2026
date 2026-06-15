@@ -1,0 +1,14 @@
+C:\Users\adria\source\repos\encap\encap\bin\Debug\net10.0\encap.exe
+C:\Users\adria\source\repos\encap\encap\bin\Debug\net10.0\encap.deps.json
+C:\Users\adria\source\repos\encap\encap\bin\Debug\net10.0\encap.runtimeconfig.json
+C:\Users\adria\source\repos\encap\encap\bin\Debug\net10.0\encap.dll
+C:\Users\adria\source\repos\encap\encap\bin\Debug\net10.0\encap.pdb
+C:\Users\adria\source\repos\encap\encap\obj\Debug\net10.0\encap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adria\source\repos\encap\encap\obj\Debug\net10.0\encap.AssemblyInfoInputs.cache
+C:\Users\adria\source\repos\encap\encap\obj\Debug\net10.0\encap.AssemblyInfo.cs
+C:\Users\adria\source\repos\encap\encap\obj\Debug\net10.0\encap.csproj.CoreCompileInputs.cache
+C:\Users\adria\source\repos\encap\encap\obj\Debug\net10.0\encap.dll
+C:\Users\adria\source\repos\encap\encap\obj\Debug\net10.0\refint\encap.dll
+C:\Users\adria\source\repos\encap\encap\obj\Debug\net10.0\encap.pdb
+C:\Users\adria\source\repos\encap\encap\obj\Debug\net10.0\encap.genruntimeconfig.cache
+C:\Users\adria\source\repos\encap\encap\obj\Debug\net10.0\ref\encap.dll
