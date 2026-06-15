@@ -1,0 +1,14 @@
+C:\Users\adria\source\repos\ejerciciosListas\ejerciciosListas\bin\Debug\net10.0\ejerciciosListas.exe
+C:\Users\adria\source\repos\ejerciciosListas\ejerciciosListas\bin\Debug\net10.0\ejerciciosListas.deps.json
+C:\Users\adria\source\repos\ejerciciosListas\ejerciciosListas\bin\Debug\net10.0\ejerciciosListas.runtimeconfig.json
+C:\Users\adria\source\repos\ejerciciosListas\ejerciciosListas\bin\Debug\net10.0\ejerciciosListas.dll
+C:\Users\adria\source\repos\ejerciciosListas\ejerciciosListas\bin\Debug\net10.0\ejerciciosListas.pdb
+C:\Users\adria\source\repos\ejerciciosListas\ejerciciosListas\obj\Debug\net10.0\ejerciciosListas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adria\source\repos\ejerciciosListas\ejerciciosListas\obj\Debug\net10.0\ejerciciosListas.AssemblyInfoInputs.cache
+C:\Users\adria\source\repos\ejerciciosListas\ejerciciosListas\obj\Debug\net10.0\ejerciciosListas.AssemblyInfo.cs
+C:\Users\adria\source\repos\ejerciciosListas\ejerciciosListas\obj\Debug\net10.0\ejerciciosListas.csproj.CoreCompileInputs.cache
+C:\Users\adria\source\repos\ejerciciosListas\ejerciciosListas\obj\Debug\net10.0\ejerciciosListas.dll
+C:\Users\adria\source\repos\ejerciciosListas\ejerciciosListas\obj\Debug\net10.0\refint\ejerciciosListas.dll
+C:\Users\adria\source\repos\ejerciciosListas\ejerciciosListas\obj\Debug\net10.0\ejerciciosListas.pdb
+C:\Users\adria\source\repos\ejerciciosListas\ejerciciosListas\obj\Debug\net10.0\ejerciciosListas.genruntimeconfig.cache
+C:\Users\adria\source\repos\ejerciciosListas\ejerciciosListas\obj\Debug\net10.0\ref\ejerciciosListas.dll
